@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "Arjun.swagger-viewer",
+        "ms-vscode.node-debug",
+        "streetsidesoftware.code-spell-checker",
+        "EditorConfig.EditorConfig",
+        "chenxsan.vscode-standardjs"
+    ]
+}
